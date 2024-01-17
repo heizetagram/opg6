@@ -14,6 +14,7 @@ public class Calculator {
         return numberB;
     }
 
+    // Her kunne man eventuelt bruge en Enum i stedet for String
     public double calculate(String regneart) {
         double result = 0;
 
